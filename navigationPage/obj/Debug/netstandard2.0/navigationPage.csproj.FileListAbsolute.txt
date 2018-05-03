@@ -1,0 +1,14 @@
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\bin\Debug\netstandard2.0\navigationPage.deps.json
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\bin\Debug\netstandard2.0\navigationPage.dll
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\bin\Debug\netstandard2.0\navigationPage.pdb
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.csprojResolveAssemblyReference.cache
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.csproj.CoreCompileInputs.cache
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.App.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.MainPage.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.AssemblyInfoInputs.cache
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.AssemblyInfo.cs
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.dll
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.pdb
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.Pagina2.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.Pagina3.xaml.g.cs
+C:\Users\DIANIZZ\source\repos\navigationPage\navigationPage\navigationPage\obj\Debug\netstandard2.0\navigationPage.Pagina4.xaml.g.cs

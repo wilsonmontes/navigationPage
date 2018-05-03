@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:navigationPage"
+             x:Class="navigationPage.MainPage"
+             Title="Navigation Page">
+
+    <StackLayout>
+        <Label Text="Esta es una página de navegación"></Label>
+        <Button Text="Página 2"
+                Clicked="Siguiente_Button_Clicked">
+            
+        </Button>
+        <!--<Button WidthRequest="300"
+                HeightRequest="300"
+                Text="Esto es navegation Page">
+        </Button>-->
+        
+    </StackLayout>
+
+</ContentPage>
